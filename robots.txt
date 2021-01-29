@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://shesanth.com/sitemap.xml
